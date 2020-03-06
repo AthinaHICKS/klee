@@ -7,6 +7,7 @@ public class Test {
 
 		System.out.println("Projet Athina GIT V1");
 		System.out.println("V2");
+		System.out.println("V3");
 	}
 
 }
