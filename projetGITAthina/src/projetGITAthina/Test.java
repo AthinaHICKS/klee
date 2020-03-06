@@ -6,6 +6,7 @@ public class Test {
 		// TODO Auto-generated method stub
 
 		System.out.println("Projet Athina GIT V1");
+		System.out.println("V2");
 	}
 
 }
